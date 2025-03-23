@@ -10,7 +10,7 @@
 
 <hr>
   <p align="center">
-  <a href="https://www.linkedin.com/in/max-sergio-causso-fretel-96594574/"><img src="images/Linkedin.PNG"></a></p>
+  <a href="https://www.linkedin.com/in/max-sergio-causso-fretel-96594574/"><img src="images/Linkedin.png"></a></p>
 
 <p>I have over eight years of experience in data analysis, working for various companies, manipulating data to provide useful insights to end users. I have experience making data easier to understand through customized reports and dashboards that support decision-making and show the most important KPIs.
 
@@ -41,3 +41,15 @@ Report showing the available space on a database server and its daily growth, di
 
 ### [Excel file in sharepoint to Batabase using Azure Data Factory](https://github.com/mscausso/ExcelFileSPtoBD/blob/main/README.md)
 Access Excel files in SharePoint and transfer them to a database using Azure Data Factory and Python.
+
+
+### Certifications
+<hr>
+ <p align="center">
+   
+I have a certification in Power BI, which certifies that I possess the skills for administration and usage of the tool. The certification is titled: [Microsoft Certified: Power BI Data Analyst Associate](https://learn.microsoft.com/en-us/users/MaxSergioCaussoFretel-2142/credentials/B79AD993A6D1CA35)
+
+![image](https://github.com/user-attachments/assets/86b3ce86-8b14-477b-a1d1-23be62cc7d93)
+
+
+
