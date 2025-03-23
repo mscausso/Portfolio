@@ -26,3 +26,7 @@ As a data engineer, I have worked on building data flows that help transform dat
 
 ### [Mining Equipment Condition Monitoring](https://github.com/mscausso/Mining-Equipment-Condition-Monitoring/blob/main/README.md)
 A real-time report on the condition of the equipment used at each mining operation. Each component of the equipment is monitored to send alerts that help prevent failures.
+  
+### [Component Lifetime](https://github.com/mscausso/ComponentLifetime/blob/main/README.md)
+Report showing the trend of the useful life hours of components that have failed and are part of the equipment. Additionally, it displays the overall failure distribution of the components.
+
