@@ -32,3 +32,12 @@ Report showing the trend of the useful life hours of components that have failed
 
 ### [Enhancement of an Analytical Architecture](https://github.com/mscausso/Enhancement-of-an-Analytical-Architecture/blob/main/README.md)
 A new analytical architecture proposal was presented for a company that needed to improve the transition of data between its services.
+
+### [Notifications via Teams when a pipeline fails](https://github.com/mscausso/Notifications-via-Teams-when-a-pipeline-fails/blob/main/README.md)
+Send detailed notifications when data pipelines fail, with the goal of taking corrective actions.
+
+### [Database Server Available Space Monitoring](https://github.com/mscausso/Database--Server-Available-Space-Monitoring/blob/main/README.md)
+Report showing the available space on a database server and its daily growth, displaying the available space in each of the databases on the server.
+
+### [Excel file in sharepoint to Batabase using Azure Data Factory](https://github.com/mscausso/ExcelFileSPtoBD/blob/main/README.md)
+Access Excel files in SharePoint and transfer them to a database using Azure Data Factory and Python.
