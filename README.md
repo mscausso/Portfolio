@@ -3,7 +3,7 @@
 
 <img src="images/DSC_0535-min.jpg" height=400></p>
 
-<p>I’m a Data Specialist with experience in roles such as Data Analyst and Data Engineer. I thrive on understanding the data journey within an organization and how it is processed to provide optimal analytical solutions and visualizations tailored to business needs. I have experience across various industries, including banking, mining, airport support, and dair.</p>
+<p>I’m a Data Specialist with experience in roles such as Data Analyst and Data Engineer. I thrive on understanding the data journey within an organization and how it is processed to provide optimal analytical solutions and visualizations tailored to business needs. I have experience across various industries, including banking, mining, airport support, and dairy.</p>
 
 
 ### My Professional Experience
