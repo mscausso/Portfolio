@@ -30,3 +30,5 @@ A real-time report on the condition of the equipment used at each mining operati
 ### [Component Lifetime](https://github.com/mscausso/ComponentLifetime/blob/main/README.md)
 Report showing the trend of the useful life hours of components that have failed and are part of the equipment. Additionally, it displays the overall failure distribution of the components.
 
+### [Enhancement of an Analytical Architecture](https://github.com/mscausso/Enhancement-of-an-Analytical-Architecture/blob/main/README.md)
+A new analytical architecture proposal was presented for a company that needed to improve the transition of data between its services.
