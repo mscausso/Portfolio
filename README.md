@@ -5,9 +5,10 @@
 
 <p>I'm a data specialist and can perform tasks related to data analysis and engineering. I enjoy understanding the data journey within a company and how it is processed in order to deliver optimal analytical visualization and processing solutions tailored to business needs. I have experience in the banking, mining, airport support, and dairy industries.</p>
 
-<hr>
 
 ### My Professional Experience
+
+<hr>
   <p align="center">
   <a href="https://www.linkedin.com/in/max-sergio-causso-fretel-96594574/"><img src="images/Linkedin.PNG"></a></p>
 
@@ -17,7 +18,11 @@
 As a data engineer, I have worked on building data flows that help transform data into information that an entire business can use for various purposes.
 </p>
 
-<hr>
+
 
 ### My Past Projects
+<hr>
  <p align="center">
+
+### [Mining Equipment Condition Monitoring]
+A real-time report on the condition of the equipment used at each mining operation. Each component of the equipment is monitored to send alerts that help prevent failures.
