@@ -27,25 +27,6 @@ As a data engineer, I have worked on building data flows that help transform dat
 
 ---
 
-### 🧠 My Past Projects
-
-- [Mining Equipment Condition Monitoring](https://github.com/mscausso/Mining-Equipment-Condition-Monitoring/blob/main/README.md)  
-- [Component Lifetime](https://github.com/mscausso/ComponentLifetime/blob/main/README.md)  
-- [Enhancement of an Analytical Architecture](https://github.com/mscausso/Enhancement-of-an-Analytical-Architecture/blob/main/README.md)  
-- [Notifications via Teams when a pipeline fails](https://github.com/mscausso/Notifications-via-Teams-when-a-pipeline-fails/blob/main/README.md)  
-- [Database Server Available Space Monitoring](https://github.com/mscausso/Database--Server-Available-Space-Monitoring/blob/main/README.md)  
-- [Excel file in SharePoint to Database using Azure Data Factory](https://github.com/mscausso/ExcelFileSPtoBD/blob/main/README.md)
-
----
-
-### 📜 Certifications
-
-I have a certification in Power BI:  
-[Microsoft Certified: Power BI Data Analyst Associate](https://learn.microsoft.com/en-us/users/MaxSergioCaussoFretel-2142/credentials/B79AD993A6D1CA35)
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/86b3ce86-8b14-477b-a1d1-23be62cc7d93" height="200">
-</p>
 
 ---
 
@@ -113,3 +94,14 @@ I have a certification in Power BI:
   </tr>
   
 </table>
+
+
+
+### 📜 Certifications
+
+I have a certification in Power BI:  
+[Microsoft Certified: Power BI Data Analyst Associate](https://learn.microsoft.com/en-us/users/MaxSergioCaussoFretel-2142/credentials/B79AD993A6D1CA35)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/86b3ce86-8b14-477b-a1d1-23be62cc7d93" height="200">
+</p>
