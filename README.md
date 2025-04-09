@@ -63,14 +63,28 @@ I have a certification in Power BI, which certifies that I possess the skills fo
   <a href="https://github.com/mscausso/Portfolio/tree/main/Mining%20Equipment%20Condition%20Monitoring" target="_blank">
     <img 
       src="https://github.com/user-attachments/assets/c6445da5-2058-479d-a16b-e4aebb00a27b" 
-      alt="Mining Equipment Condition Monitoring" 
+      alt="Mining Project"
       width="300"
-      style="border-radius: 12px; border: 1px solid #ccc; box-shadow: 2px 2px 8px rgba(0,0,0,0.1); margin: 10px; transition: all 0.3s ease;" 
-      onmouseover="this.style.transform='scale(1.03)'; this.style.boxShadow='4px 4px 16px rgba(0,0,0,0.2)';" 
-      onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='2px 2px 8px rgba(0,0,0,0.1)';"
-    >
+      style="border: 4px solid #e1e4e8; border-radius: 16px; padding: 6px; background-color: white; box-shadow: 4px 4px 12px rgba(0,0,0,0.1);">
     <br>
-    <strong>Mining Equipment Condition Monitoring</strong>
+    <h3 align="center" style="margin-top: 8px;">
+      <font color="#2b2d42">🚜 <u><b>Mining Equipment Condition Monitoring</b></u></font>
+    </h3>
+  </a>
+</p>
+
+
+<h2 id="proyectos">🚀 Proyectos</h2>
+
+<p align="center">
+  <a href="https://github.com/mscausso/Portfolio/tree/main/Mining%20Equipment%20Condition%20Monitoring" target="_blank">
+    <img 
+      src="https://github.com/user-attachments/assets/c6445da5-2058-479d-a16b-e4aebb00a27b" 
+      alt="Mining Monitoring Demo" 
+      width="400"
+      style="border-radius: 16px; border: 2px solid #e1e4e8; box-shadow: 0 4px 12px rgba(0,0,0,0.1); background: white; padding: 8px;">
+    <br>
+    <strong><span style="font-size: 20px;">🚜 Mining Equipment Condition Monitoring</span></strong>
   </a>
 </p>
 
