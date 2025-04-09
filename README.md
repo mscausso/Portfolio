@@ -5,9 +5,20 @@
   <img src="images/profile-pic.png" height="400">
 </p>
 
-<p>
-I’m a Data Specialist with experience in roles such as Data Analyst and Data Engineer. I thrive on understanding the data journey within an organization and how it is processed to provide optimal analytical solutions and visualizations tailored to business needs. I have experience across various industries, including banking, mining, airport support, and dairy.
-</p>
+<table align="center" style="border: 1px solid white;">
+  <tr>
+    <td width="350" style="border: none;">
+      <p align="justify" style="font-size: 16px; line-height: 1.6; margin: 0;">
+        I'm a data specialist with experience as both a Data Analyst and Data Engineer. I enjoy working with data to help teams understand what’s really going on and make better decisions. I've worked across different industries like banking, mining, airport services, and dairy.
+      </p>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
 
 ---
 
@@ -24,9 +35,6 @@ I have over eight years of experience in data analysis, working for various comp
 
 As a data engineer, I have worked on building data flows that help transform data into information that an entire business can use for various purposes.
 </p>
-
----
-
 
 ---
 
@@ -95,13 +103,21 @@ As a data engineer, I have worked on building data flows that help transform dat
   
 </table>
 
+---
 
+<h2 align="center">📜 Certification Highlight</h2>
 
-### 📜 Certifications
+<div align="center" style="border: 2px solid #e1e4e8; border-radius: 12px; padding: 20px; width: 80%; margin: auto; box-shadow: 4px 4px 12px rgba(0,0,0,0.1); background-color: #ffffff;">
+  <p><b>🎓 Microsoft Certified:</b> <span style="font-size: 18px;"><u>Power BI Data Analyst Associate</u></span></p>
+  <p>
+    Issued by Microsoft — Validated expertise in data modeling, visualization, DAX, Power Query and business intelligence insights using Power BI.
+  </p>
+  <a href="https://learn.microsoft.com/en-us/users/MaxSergioCaussoFretel-2142/credentials/B79AD993A6D1CA35" target="_blank">
+    <img src="https://github.com/user-attachments/assets/86b3ce86-8b14-477b-a1d1-23be62cc7d93" height="200" style="border-radius: 10px; margin-top: 10px;">
+  </a>
+  <br><br>
+  <a href="https://learn.microsoft.com/en-us/users/MaxSergioCaussoFretel-2142/credentials/B79AD993A6D1CA35" target="_blank">
+    <b>🔗 View Credential</b>
+  </a>
+</div>
 
-I have a certification in Power BI:  
-[Microsoft Certified: Power BI Data Analyst Associate](https://learn.microsoft.com/en-us/users/MaxSergioCaussoFretel-2142/credentials/B79AD993A6D1CA35)
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/86b3ce86-8b14-477b-a1d1-23be62cc7d93" height="200">
-</p>
