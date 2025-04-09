@@ -124,6 +124,11 @@ As a data engineer, I have worked on building data flows that help transform dat
 <h2 align="center">💻 Tools & Technologies</h2>
 
 <p align="center">
+  💡 <i>I’m experienced with the following tools and technologies, which I use across my data projects.</i>
+</p>
+
+
+<p align="center">
   <!-- Power BI -->
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
 
