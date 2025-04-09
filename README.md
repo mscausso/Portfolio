@@ -81,4 +81,35 @@ I have a certification in Power BI:
       </a>
     </td>
   </tr>
+
+  <tr>
+    <td align="center" style="padding: 20px;">
+      <a href="https://github.com/mscausso/Enhancement-of-an-Analytical-Architecture/blob/main/README.md" target="_blank">
+        <img src="https://github.com/user-attachments/assets/8f456c9b-72f8-49e9-a1ec-ceaeb4f2ab42"
+             width="300"
+             style="border-radius: 12px; border: 2px solid #e1e4e8; background: white; padding: 6px; box-shadow: 4px 4px 12px rgba(0,0,0,0.1);">
+        <br><br>
+        <b style="font-size: 16px;">🏗  <u>Analytical Architecture</u></b>
+      </a>
+    </td>
+    <td align="center" style="padding: 20px;">
+      <a href="https://github.com/mscausso/Notifications-via-Teams-when-a-pipeline-fails/blob/main/README.md" target="_blank">
+        <img src="https://github.com/user-attachments/assets/9e2bcbba-0786-4736-88a5-2cc56ae5cc87"
+             width="300" height="120"
+             style="border-radius: 12px; border: 2px solid #e1e4e8; background: white; padding: 6px; box-shadow: 4px 4px 12px rgba(0,0,0,0.1);">
+        <br><br>
+        <b style="font-size: 16px;">📩 <u>Azure DF - Teams Notifications</u></b>
+      </a>
+    </td>
+    <td align="center" style="padding: 20px;">
+      <a href="https://github.com/mscausso/ExcelFileSPtoBD/blob/main/README.md" target="_blank">
+        <img src="https://github.com/user-attachments/assets/43f56763-60a8-49fd-a62b-d4cbc81e967a"
+             width="300"
+             style="border-radius: 12px; border: 2px solid #e1e4e8; background: white; padding: 6px; box-shadow: 4px 4px 12px rgba(0,0,0,0.1);">
+        <br><br>
+        <b style="font-size: 16px;">📂 <u>Excel to DB w/ ADF</u></b>
+      </a>
+    </td>
+  </tr>
+  
 </table>
