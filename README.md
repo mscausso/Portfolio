@@ -57,3 +57,21 @@ I have a certification in Power BI, which certifies that I possess the skills fo
 
 
 
+<h2 id="proyectos">🚀 Proyectos</h2>
+
+<p align="center">
+  <a href="https://github.com/mscausso/Portfolio/tree/main/Mining%20Equipment%20Condition%20Monitoring" target="_blank">
+    <img 
+      src="https://github.com/user-attachments/assets/c6445da5-2058-479d-a16b-e4aebb00a27b" 
+      alt="Mining Equipment Condition Monitoring" 
+      width="300"
+      style="border-radius: 12px; border: 1px solid #ccc; box-shadow: 2px 2px 8px rgba(0,0,0,0.1); margin: 10px; transition: all 0.3s ease;" 
+      onmouseover="this.style.transform='scale(1.03)'; this.style.boxShadow='4px 4px 16px rgba(0,0,0,0.2)';" 
+      onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='2px 2px 8px rgba(0,0,0,0.1)';"
+    >
+    <br>
+    <strong>Mining Equipment Condition Monitoring</strong>
+  </a>
+</p>
+
+
