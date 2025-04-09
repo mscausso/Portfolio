@@ -124,31 +124,18 @@ As a data engineer, I have worked on building data flows that help transform dat
 <h2 align="center">💻 Tools & Technologies</h2>
 
 <p align="center">
-  💡 <i>I’m experienced with the following tools and technologies, which I use across my data projects.</i>
+  I’m experienced with the following tools and technologies, which I use across my data projects:
 </p>
 
-
 <p align="center">
-  <!-- Power BI -->
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-
-  <!-- SQL Server -->
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-
-  <!-- MySQL -->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-
-  <!-- Oracle -->
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
-
-  <!-- Python -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-
-  <!-- Azure Data Factory -->
   <img src="https://img.shields.io/badge/Azure%20DF-007FFF?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Data Factory" />
-
-  <!-- Snowflake -->
   <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake" />
+  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google BigQuery" />
 </p>
 
 
