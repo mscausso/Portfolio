@@ -113,7 +113,7 @@
     Issued by Microsoft — Validated expertise in data modeling, visualization, DAX, Power Query and business intelligence insights using Power BI.
   </p>
   <a href="https://learn.microsoft.com/en-us/users/MaxSergioCaussoFretel-2142/credentials/B79AD993A6D1CA35" target="_blank">
-    <img src="https://github.com/user-attachments/assets/86b3ce86-8b14-477b-a1d1-23be62cc7d93" height="200" style="border-radius: 10px; margin-top: 10px;">
+    <img src="https://github.com/user-attachments/assets/86b3ce86-8b14-477b-a1d1-23be62cc7d93" height="400" style="border-radius: 10px; margin-top: 10px;">
   </a>
   <br><br>
   <a href="https://learn.microsoft.com/en-us/users/MaxSergioCaussoFretel-2142/credentials/B79AD993A6D1CA35" target="_blank">
@@ -128,14 +128,17 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Azure%20DF-007FFF?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Data Factory" />
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake" />
-  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google BigQuery" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" alt="Power BI" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/snowflake/snowflake-original.svg" alt="Snowflake" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_BigQuery_Logo.svg" alt="BigQuery" height="40"/>
 </p>
+
+
+
 
 
