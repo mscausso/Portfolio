@@ -129,37 +129,37 @@
 
 <table align="center">
   <tr>
-    <td align="center" style="padding: 10px">
+    <td align="center" style="padding: 10px;">
       <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="Power BI" />
       <br><sub><b>Power BI</b></sub>
     </td>
-    <td align="center" style="padding: 10px">
+    <td align="center" style="padding: 10px;">
       <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" height="40" alt="SQL Server" />
       <br><sub><b>SQL Server</b></sub>
     </td>
-    <td align="center" style="padding: 10px">
+    <td align="center" style="padding: 10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
       <br><sub><b>MySQL</b></sub>
     </td>
-    <td align="center" style="padding: 10px">
+    <td align="center" style="padding: 10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="Oracle" />
       <br><sub><b>Oracle</b></sub>
     </td>
-    <td align="center" style="padding: 10px">
+    <td align="center" style="padding: 10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
       <br><sub><b>Python</b></sub>
     </td>
   </tr>
   <tr>
-    <td align="center" style="padding: 10px">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" />
+    <td align="center" style="padding: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure Data Factory" />
       <br><sub><b>Azure</b></sub>
     </td>
-    <td align="center" style="padding: 10px">
-      <img src="https://github.com/mscausso/Portfolio/assets/145928720/f36d6018-1e70-4b2b-8d8c-d85fe8a4a176" height="40" alt="Snowflake" />
+    <td align="center" style="padding: 10px;">
+      <img src="images/snowflake_icon_optimized.png" height="40" alt="Snowflake" />
       <br><sub><b>Snowflake</b></sub>
     </td>
-    <td align="center" style="padding: 10px">
+    <td align="center" style="padding: 10px;">
       <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" height="40" alt="BigQuery" />
       <br><sub><b>BigQuery</b></sub>
     </td>
