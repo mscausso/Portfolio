@@ -22,19 +22,19 @@
 
 ---
 
-### 💼 My Professional Experience
+<h2 align="center">🤝 Let's Connect</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/max-sergio-causso-fretel-96594574/">
-    <img src="images/Linkedin.png" alt="LinkedIn" height="40">
+  I'm a data professional with 8+ years of experience in data analysis and engineering.<br>
+  I help businesses turn raw data into clear, actionable insights through reports, dashboards, and robust data flows.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/max-causso/" target="_blank">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
-<p>
-I have over eight years of experience in data analysis, working for various companies, manipulating data to provide useful insights to end users. I have experience making data easier to understand through customized reports and dashboards that support decision-making and show the most important KPIs.
-
-As a data engineer, I have worked on building data flows that help transform data into information that an entire business can use for various purposes.
-</p>
 
 ---
 
