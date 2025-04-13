@@ -1,5 +1,5 @@
 
-# 🚀 ePortfolio
+# 🚀 ePortfolio - Max Causso
 
 <p align="center">
   <img src="images/profile-pic.png" height="400">
@@ -127,6 +127,8 @@
   I’m experienced with the following tools and technologies, which I use across my data projects:
 </p>
 
+<h3 align="center">🧰 Tools & Technologies I Use</h3>
+
 <table align="center">
   <tr>
     <td align="center" style="padding: 10px;">
@@ -134,7 +136,7 @@
       <br><sub><b>Power BI</b></sub>
     </td>
     <td align="center" style="padding: 10px;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" height="40" alt="SQL Server" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" height="40"/>
       <br><sub><b>SQL Server</b></sub>
     </td>
     <td align="center" style="padding: 10px;">
@@ -152,19 +154,29 @@
   </tr>
   <tr>
     <td align="center" style="padding: 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure Data Factory" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" />
       <br><sub><b>Azure</b></sub>
     </td>
     <td align="center" style="padding: 10px;">
-      <img src="images/snowflake_icon_optimized.png" height="40" alt="Snowflake" />
+      <img src="https://github.com/user-attachments/assets/fd4cb489-7431-4ad6-83b0-0344008c23c7" height="40" alt="Snowflake" />
       <br><sub><b>Snowflake</b></sub>
     </td>
     <td align="center" style="padding: 10px;">
       <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" height="40" alt="BigQuery" />
       <br><sub><b>BigQuery</b></sub>
     </td>
+    <td align="center" style="padding: 10px;">
+      <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" height="40" alt="Jira" />
+      <br><sub><b>Jira</b></sub>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img src="https://github.com/user-attachments/assets/49c6d8ae-cb9e-4b00-a673-7efcb6b3c864" height="40" alt="Microsoft 365" />
+      <br><sub><b>Microsoft 365</b></sub>
+    </td>
   </tr>
 </table>
+
+
 
 
 
